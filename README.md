@@ -6,7 +6,7 @@ An AI-powered SaaS application that analyzes resumes against job descriptions an
 
 ## 🌍 Live Demo
 
-👉 [https://your-huggingface-link](https://huggingface.co/spaces/Faraz618/talentbridge-ai)
+👉 [[https://your-huggingface-link](https://huggingface.co/spaces/Faraz618/talentbridge-ai)](https://huggingface.co/spaces/Faraz618/talentbridge-ai)
 
 ## 🌍 UI ScreenShots
 <img width="1345" height="596" alt="image" src="https://github.com/user-attachments/assets/053bdac9-8da5-4cc0-bbde-adaf4e4a6cd3" />
