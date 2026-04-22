@@ -13,7 +13,7 @@ An AI-powered SaaS application that analyzes resumes against job descriptions an
 
 ---
 
-## 🔥 Features
+## 🔥 Features.
 
 * 🎯 ATS Match Score
 * 🛠 Skill Gap Analysis
