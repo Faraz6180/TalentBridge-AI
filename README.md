@@ -23,7 +23,7 @@ An AI-powered SaaS application that analyzes resumes against job descriptions an
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack.
 
 * Python
 * Streamlit
