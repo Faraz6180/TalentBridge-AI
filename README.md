@@ -1,5 +1,5 @@
 # 🚀 TalentBridge AI — Global Hiring Copilot
-An AI-powered SaaS application that analyzes resumes against job descriptions and provides recruiter-level insights...........
+An AI-powered SaaS application that analyzes resumes against job descriptions and provides recruiter-level insights............
 
 ---
 
